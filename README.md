@@ -15,6 +15,6 @@ Völlig funktionsfähiges Spiel.
 Hat ein Zeitlimit und einen Score
 
 
-##Schwierigkeiten
+## Schwierigkeiten
 
 Meine größte Schwierigkeit wies sich im Negative Object und meinem Booster auf. Ich hatte schwierigkeiten dies mit dem Scoresystem und Zeitsystem zu verbinden. Es benötigte fast einen ganzen Tag, dass dieser Fehler behoben werden konnte.
