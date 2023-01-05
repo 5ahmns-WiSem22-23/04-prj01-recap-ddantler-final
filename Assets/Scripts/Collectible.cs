@@ -77,10 +77,8 @@ public class Collectible : MonoBehaviour
 
     void OnTriggerExit2D(Collider2D other)
     {
-        // if the item is being carried by the player and they are colliding with it
         if (isCarried && other.gameObject == player)
         {
-            // set the isCarried flag to false
             isCarried = false;
         }
     }

@@ -13,7 +13,7 @@ public class PlayerScore : MonoBehaviour
         score = 0;
     }
 
-    void Update() // update the score text
+    void Update()
     {
         scoreText.text = "Score: " + score;
     }

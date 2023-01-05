@@ -17,29 +17,29 @@ public class GameOver : MonoBehaviour
 
     void Start()
     {
-        timer = 120f; // set the timer to 30 seconds
-        gameOverPanel.SetActive(false); // hide the game over panel and the retry button at the start of the game
+        timer = 120f; 
+        gameOverPanel.SetActive(false); 
         retryButton.gameObject.SetActive(false);
-        retryButton.onClick.AddListener(Retry); // add a listener to the retry button's onClick event
+        retryButton.onClick.AddListener(Retry); 
     }
 
     void Update()
     {
-        if (timer > 0) // check if the timer has not run out
+        if (timer > 0) 
         {
-            timer -= Time.deltaTime; // decrease the timer by the time elapsed since the last frame
-            timerText.text = "Time: " + Mathf.RoundToInt(timer); // display the time remaining
+            timer -= Time.deltaTime; 
+            timerText.text = "Time: " + Mathf.RoundToInt(timer); 
         }
         else if (timer <= 0) // check if the timer has run out
         {
-            gameOverPanel.SetActive(true); // show the game over panel
-            retryButton.gameObject.SetActive(true); // show the retry button
-            playerController.enabled = false; // disable the player's movement
+            gameOverPanel.SetActive(true);
+            retryButton.gameObject.SetActive(true); 
+            playerController.enabled = false; 
 
-            if (PlayerScore.score > highScore) // check if the final score is a new high score
+            if (PlayerScore.score > highScore) 
             {
-                highScore = PlayerScore.score; // set the high score to the final score
-                PlayerPrefs.SetInt("highScore", highScore); // save the high score to PlayerPrefs
+                highScore = PlayerScore.score; 
+                PlayerPrefs.SetInt("highScore", highScore); 
             }
         }
     }
@@ -48,6 +48,6 @@ public class GameOver : MonoBehaviour
     {
         PlayerScore.score = 0; // reset the score
         Time.timeScale = 1; // reset the time scale
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name); // reload the current scene
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name); 
     }
 }

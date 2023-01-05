@@ -20,14 +20,11 @@ public class BadSpawner : MonoBehaviour
     {
         while (true)
         {
-            // choose a random spawn location
             int randomIndex = Random.Range(0, spawnLocations.Length);
             Transform randomSpawnLocation = spawnLocations[randomIndex];
 
-            // spawn the object at the random location
             spawnedObject = Instantiate(objectToSpawn, randomSpawnLocation.position, randomSpawnLocation.rotation);
 
-            // wait for the specified interval before spawning the next object
             yield return new WaitForSeconds(spawnInterval);
         }
     }
