@@ -19,11 +19,11 @@ Have fun!
 
 ## Eigene Features
 
-Kaffee (Gilt als ein Booster für den Spieler)
-Zerknitterte Geschenke (Minuspunkte)
-Scoresystem
-Replay-Button
-Timer
+- Kaffee (Gilt als ein Booster für den Spieler)
+- Zerknitterte Geschenke (Minuspunkte)
+- Scoresystem
+- Replay-Button
+- Timer
 
 ## Assets
 Die meisten Sprites sind eigenhändig erstellt und demnach nicht frei zur Verfügung.
