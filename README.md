@@ -31,23 +31,8 @@ Die meisten Sprites sind eigenhändig erstellt und demnach nicht frei zur Verfü
 ## Issues
 Das spiel wurde von Klassenkollegen getestet und es wurden keine, für die Spieltechnik relevante, Fehler gefunden.
 
-
-
-# Commits
-
-### Commit I:
-
-Erste Spielmechaniken
-
-### Commit II:
-
-Völlig funktionsfähiges Spiel.
-Hat ein Zeitlimit und einen Score.
-Grafiken wurden hinzugefügt
-
-
 ## Schwierigkeiten
 
-Meine größte Schwierigkeit wies sich im Negative Object und in meinem Booster auf. Ich hatte Schwierigkeiten das jeweilige Sceipt mit dem Script des Scoresystem und Zeitsystems zu verbinden. Es benötigte fast einen ganzen Tag diesen Fehler zu beheben.
+Meine größte Schwierigkeit wies sich im Negative Object und in meinem Booster auf. Ich hatte Schwierigkeiten das jeweilige Skript mit dem Skript des Scoresystems und des Zeitsystems zu vernetzen.
 
 Copyright © 2023 by ddantler
