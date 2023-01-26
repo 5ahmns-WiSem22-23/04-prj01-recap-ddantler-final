@@ -18,6 +18,7 @@ Du spielst einen Charakter (mich) und musst, liegend und schleifend, Geschenke i
 Have fun!
 
 ## Eigene Features
+
 Kaffee (Gilt als ein Booster für den Spieler)
 Zerknitterte Geschenke (Minuspunkte)
 Scoresystem
