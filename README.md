@@ -37,6 +37,6 @@ Meine größte Schwierigkeit wies sich im Negative Object und in meinem Booster 
 
 ## Endanmerkung
 
-Dieses Spiel ist ein in einer Schule entstandenes Projekt, welches rein als Weiterbildung im Bereich Programmieren im Bezug zu Unity 2D geltet.
+Dieses Spiel ist ein in einer Schule entstandenes Projekt, welches rein als eine Möglichkeit zur Weiterbildung im Bereich Programmieren im Bezug zu Unity 2D dient.
 
 Copyright © 2023 by ddantler
