@@ -35,4 +35,8 @@ Das spiel wurde von Klassenkollegen getestet und es wurden keine, für die Spiel
 
 Meine größte Schwierigkeit wies sich im Negative Object und in meinem Booster auf. Ich hatte Schwierigkeiten das jeweilige Skript mit dem Skript des Scoresystems und des Zeitsystems zu vernetzen.
 
+##Endanmerkung
+
+Dieses Spiel ist ein in einer Schule entstandenes Projekt, welches rein als Weiterbildung im Bereich Programmieren im Bezug zu Unity 2D geltet.
+
 Copyright © 2023 by ddantler
