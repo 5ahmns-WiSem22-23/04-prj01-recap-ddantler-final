@@ -36,7 +36,7 @@ Dieses spiel wurde von Klassenkollegen getestet und es wurden keine, für die Sp
 
 ## Schwierigkeiten
 
-Die größten Schwierigkeiten traten in der Harmonisierung der einzelnen Scripts auf.  Diese Fehler sind behoben und werden hier nur **angemerkt.
+Die größten Schwierigkeiten traten in der Harmonisierung der einzelnen Scripts auf.  Diese Fehler sind behoben und werden hier nur *angemerkt*.
 
 
 ## Endanmerkung
