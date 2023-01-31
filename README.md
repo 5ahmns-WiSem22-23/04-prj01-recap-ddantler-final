@@ -28,14 +28,14 @@ Have fun!
 - Timer
 
 ## Assets
-Die meisten Sprites sind eigenhändig erstellt und demnach nicht frei zur Verfügung.
+Ein Großteil der Sprites sind eigenhändig erstellt und stehen demnach nicht frei zur Verfügung.
 
 ## Issues
-Das spiel wurde von Klassenkollegen getestet und es wurden keine, für die Spieltechnik relevante, Fehler gefunden.
+Dieses spiel wurde von Klassenkollegen getestet und es wurden keine, für die Spieltechnik relevante, Fehler gefunden.
 
 ## Schwierigkeiten
 
-Meine größte Schwierigkeit wies sich im Negative Object und in meinem Booster auf. Ich hatte Schwierigkeiten das jeweilige Skript mit dem Skript des Scoresystems und des Zeitsystems zu vernetzen.
+Die größte Schwierigkeit wies sich im Negative Object und in dem Booster auf. Dort traten Schwierigkeiten in der Harmonisierung der einzelnen Scripts auf.
 
 ## Endanmerkung
 
