@@ -32,7 +32,7 @@ Have fun!
 Ein Großteil der Sprites sind eigenhändig erstellt und stehen demnach nicht frei zur Verfügung.
 
 ## Issues
-Dieses spiel wurde von Klassenkollegen getestet und es wurden keine, für die Spieltechnik relevante, Fehler gefunden.
+Dieses spiel wurde von Klassenkollegen getestet und es wurden keine, für die Spieltechnik relevanten, Fehler gefunden.
 
 ## Schwierigkeiten
 
