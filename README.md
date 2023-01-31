@@ -5,6 +5,7 @@ Dieses Spiel ist ein Schuleinzelprojekt in dem Fach MTIN der HTBLuVA-Salzburg, i
 ## Wichtig
 
 Mein vorheriges Repository wies Commit-Fehler auf die laut sämtlicher Foren nicht direkt lösbar sind. Hier ist nun das wirkliche Spiel.
+Der Build dieses Spiels ist im "Game" Dateienordner untergebracht.
 
 ## Arbeitsauftrag
 
@@ -35,7 +36,8 @@ Dieses spiel wurde von Klassenkollegen getestet und es wurden keine, für die Sp
 
 ## Schwierigkeiten
 
-Die größte Schwierigkeit wies sich im Negative Object und in dem Booster auf. Dort traten Schwierigkeiten in der Harmonisierung der einzelnen Scripts auf.
+Die größten Schwierigkeiten traten in der Harmonisierung der einzelnen Scripts auf.  Diese Fehler sind behoben und werden hier nur **angemerkt.
+
 
 ## Endanmerkung
 
