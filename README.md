@@ -1,5 +1,7 @@
 # 04-prj01-recap-ddantler-final
 
+Dieses Spiel ist ein Schuleinzelprojekt in dem Fach MTIN der HTBLuVA-Salzburg, im Zweig Multimedia, welches als ein Teil der Benotung für die Abschlussklasse 22/23 gewertet wird.
+
 ## Wichtig
 
 Mein vorheriges Repository wies Commit-Fehler auf die laut sämtlicher Foren nicht direkt lösbar sind. Hier ist nun das wirkliche Spiel.
